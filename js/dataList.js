@@ -28,7 +28,7 @@ projects = [
         "techno_web": 'WordPress',
         "desc_min": "Medical Game est une plateforme d'apprentissage des concept de base dans le domaine de la santé.",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi saepe officia, consectetur praesentium minus reiciendis, accusamus consequuntur iusto ad illum quibusdam commodi facere tenetur. Culpa quia laborum quam, sint laboriosam delectus veniam, at molestiae magnam iusto similique dolorem ea doloremque!",
-        "img_details":"images/modern-shop.png",
+        "img_details":"images/sofinez-1.png",
         "details": [
             {
                 "name": 'Page présentation',
